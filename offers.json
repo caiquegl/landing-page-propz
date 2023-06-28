@@ -1,0 +1,77 @@
+[
+    {
+        "image": "https://images-americanas.b2w.io/produtos/1514702683/imagens/good-girl-carolina-herrera-perfume-feminino-eau-de-parfum/1514702691_1_xlarge.jpg",
+        "title": "Good Girl Carolina Herrera - Perfume Feminino",
+        "description": "80 ML",
+        "valueAmount": {
+            "parcel": "10",
+            "value": "49,99"
+        },
+        "valueNoAmount": {
+            "parcel": "15",
+            "value": "38,07"
+        },
+        "cash": "263,91",
+        "url": "https://www.americanas.com.br/produto/1514702683?pfm_carac=good-girl&pfm_index=1&pfm_page=search&pfm_pos=grid&pfm_type=search_page&offerId=642efb56579fbc8d91a36e81&buyboxToken=smartbuybox-acom-v2-b796acf3-f5cb-4ba9-b07c-973c63479ca2-2023-06-27%2022%3A18%3A17%200000-none-default&tamanho=30ml&condition=NEW"
+    },
+    {
+        "image": "https://images-americanas.b2w.io/produtos/2909566874/imagens/italian-legend-deo-colonia-lamborghini-perfume-masculino-100ml/2909566874_1_xlarge.jpg",
+        "title": "Italian Legend Deo Colônia Lamborghini",
+        "description": "100 ML",
+        "valueAmount": {
+            "parcel": "10",
+            "value": "49,99"
+        },
+        "valueNoAmount": {
+            "parcel": "15",
+            "value": "38,07"
+        },
+        "cash": "99,39",
+        "url": "https://www.americanas.com.br/produto/2909566874?pfm_index=NaN&pfm_page=product&pfm_pos=grid&pfm_type=product_page&offerId=63393d0d9064f2befb3b1737#&gid=1&pid=1"
+    },
+    {
+        "image": "https://images-americanas.b2w.io/produtos/3136861635/imagens/perfume-masculino-vodka-man-paris-elysees-edt-100ml/3136861635_1_xlarge.jpg",
+        "title": "Perfume Masculino Vodka Man Paris",
+        "description": "100 ML",
+        "valueAmount": {
+            "parcel": "10",
+            "value": "49,99"
+        },
+        "valueNoAmount": {
+            "parcel": "15",
+            "value": "38,07"
+        },
+        "cash": "61,51",
+        "url": "https://www.americanas.com.br/produto/3136861635?pfm_index=NaN&pfm_page=product&pfm_pos=grid&pfm_type=product_page&offerId=606f61010c0704426634e572"
+    },
+    {
+        "image": "https://images-americanas.b2w.io/produtos/01/00/img/5340998/8/5340998866_1SZ.jpg",
+        "title": "Perfume Masculino Azzaro Sport Eau De Toilette",
+        "description": "100 ML",
+        "valueAmount": {
+            "parcel": "10",
+            "value": "49,99"
+        },
+        "valueNoAmount": {
+            "parcel": "15",
+            "value": "38,07"
+        },
+        "cash": "159,99",
+        "url": "https://www.americanas.com.br/produto/5340998760?pfm_index=NaN&pfm_page=product&pfm_pos=grid&pfm_type=product_page&offerId=62e93150adbc5f39b9fe59b4"
+    },
+    {
+        "image": "https://images-americanas.b2w.io/produtos/2408149925/imagens/la-vie-est-belle-lancome-edp-perfume-feminino-100ml/2408150002_1_xlarge.jpg",
+        "title": "La Vie Est Belle Lancôme Edp",
+        "description": "100 ML",
+        "valueAmount": {
+            "parcel": "10",
+            "value": "49,99"
+        },
+        "valueNoAmount": {
+            "parcel": "15",
+            "value": "38,07"
+        },
+        "cash": "527,91",
+        "url": "https://www.americanas.com.br/produto/2408149925?pfm_carac=perfume-feminino&pfm_index=2&pfm_page=search&pfm_pos=grid&pfm_type=search_page&offerId=642efb1c579fbc8d91a30f5a&buyboxToken=smartbuybox-acom-v2-74a84187-783f-4b92-8f73-5f46407d41aa-2023-06-28%2001%3A08%3A03%200000-none-default&tamanho=100%20mL&condition=NEW#&gid=1&pid=1"
+    }
+]
